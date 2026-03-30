@@ -10,11 +10,11 @@ ndhanwada@icloud.com
 
 ## About
 
-Engineering executive with 25+ years of experience driving semiconductor architecture, power modeling, thermal and self-heating analysis, IR/EM signoff, and AI/ML-driven design.
+Engineering executive with 25+ years of experience driving semiconductor power architecture, power modeling, thermal and self-heating analysis, IR/EM signoff, and AI/ML-driven design.
 
-Leads global teams delivering methodologies and tools used across advanced processors, ASICs, and AI systems, with impact across 500+ engineers.
+Leads global teams delivering models, methodologies and tools used across advanced processors, ASICs, and AI systems, with impact across 500+ engineers.
 
-Founder and Chair of IEEE 2416. Industry leader in system-level power modeling and EDA methodology.
+Founder and Chair of IEEE 2416. Industry leader in Thermal, Reliability, system-level power modeling and EDA methodology.
 
 ---
 
