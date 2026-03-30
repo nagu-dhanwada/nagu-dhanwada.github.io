@@ -28,7 +28,10 @@
 
 - Efficient PVT Independent Abstraction of Large IP Blocks for Hierarchical Power Analysis, ICCAD 2013  
 - Towards a Standard Flow for System Level Power Modeling, ICCAD 2014  
-- An IP-Centric Power-Aware Design Flow, DAC 2013  
+- An IP-Centric Power-Aware Design Flow, DAC 2013
+- A Hybrid Approach to Standard Cell Power Characterization based on PVT Independent Contributor Modeling for use in Traditional Power Analysis Flows, DAC 2015
+- Efficient Techniques for Per Clock Gating Domain Contributor based Power Abstraction of IP Blocks for Hierarchical Power Analysis, DAC 2016
+  
 
 ---
 
