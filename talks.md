@@ -7,6 +7,7 @@
 - Si2 Power of Partnership Award (2020)
 - Best of IBM Honoree (2016)
 - Recognized by IEEE for contributions to power modeling standardization and release of the IEEE 2416-2019 standard
+
 ---
 
 ## Panels, Tutorials and Conference Leadership
