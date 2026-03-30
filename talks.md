@@ -11,11 +11,11 @@
 
 ## Panels and Conference Leadership
 
-- DAC Research Track TPC Chair (Power, IR/EM, Thermal)
-- Organizer and moderator, DAC 2022
+- DAC Research Track TPC Chair (Power, IR/EM, Thermal) DAC 2026
+- Organizer and moderator, DAC 2022 
 - Organizer and moderator, DAC 2025
-- Panel moderator: Powering the Future of AI: Are Standards an Enabler or Bottleneck
-- Speaker, Si2 Low Power Forum
+- Panel moderator: Powering the Future of AI: Are Standards an Enabler or Bottleneck, DAC 2025
+- Speaker, Si2 Low Power Forum @DAC 2022
 
 ---
 
