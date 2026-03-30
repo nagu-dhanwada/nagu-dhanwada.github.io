@@ -12,10 +12,9 @@
 ## Panels and Conference Leadership
 
 - DAC Research Track TPC Chair (Power, IR/EM, Thermal) DAC 2026
-- Organizer and moderator, DAC 2022 
-- Organizer and moderator, DAC 2025
+- Session and Panel Organizer, moderator, Si2 Low Power Forum: Power and Energy Efficiency in the Age of AI, DAC 2022 
+- Organizer and speaker, Workshop: Powering the Future: Mastering IEEE 2416 System-Level Power Modeling Standard for Low-Power AI and AMS Designs, DAC 2025
 - Panel moderator: Powering the Future of AI: Are Standards an Enabler or Bottleneck, DAC 2025
-- Speaker, Si2 Low Power Forum @DAC 2022
 
 ---
 
