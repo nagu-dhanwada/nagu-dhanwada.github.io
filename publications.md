@@ -30,17 +30,20 @@
 - Towards a Standard Flow for System Level Power Modeling, ICCAD 2014  
 - An IP-Centric Power-Aware Design Flow, DAC 2013
 - A Hybrid Approach to Standard Cell Power Characterization based on PVT Independent Contributor Modeling for use in Traditional Power Analysis Flows, DAC 2015
-- Efficient Techniques for Per Clock Gating Domain Contributor based Power Abstraction of IP Blocks for Hierarchical Power Analysis, DAC 2016
-  
+- Efficient Techniques for Per Clock Gating Domain Contributor based Power Abstraction of IP Blocks for Hierarchical Power Analysis, DAC 2016  
 
 ---
 
-## System-Level and Architecture
+## System Architecture and Early Power Modeling
 
 - Architecting Voltage Islands in Core-Based SoC Designs, ISLPED 2004  
 - Transaction-Level Modeling for Architectural and Power Analysis (ACM TODAES)  
-- Performance Modeling for Early Analysis of Multi-Core Systems  
-
----
+- Performance Modeling for Early Analysis of Multi-Core Systems, CODES/ISSS 2007  
+- Design Methodologies and Tools for Energy Efficient Multi-Core Architecture Platforms, ICCAD 2012 (Domain Specific Computing Workshop)  
+- Exploring Power Management in Multi-Core Systems, ASPDAC 2008  
+- Transaction Level Error Susceptibility Model for Bus Based SoC, ISQED 2006  
+- Temperature-Aware Voltage Islands Architecting in System-on-Chip Design, ICCD 2005  
+- A Power Estimation Methodology for SystemC Transaction Level Models, CODES+ISSS 2005  
+- Best Practices for IC Power Aware Design, SCD Source Article, 2009  
 
 [Back to Home](./)
