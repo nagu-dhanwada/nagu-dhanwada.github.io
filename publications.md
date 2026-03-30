@@ -12,7 +12,7 @@
 ## AI / Machine Learning
 
 - Optimal Input Vector Generation for Transistor-level Power Analysis Using Machine Learning, MLCAD 2025  
-- Pre and Post Silicon Analysis in the Design and Validation of AI Enabled High Performance Microprocessors, DAC 2022  
+- Pre and Post Silicon Analysis in the Design and Validation of AI Enabled High Performance Microprocessors, DAC 2022 **(Top 10 Poster)**
 - Energy Efficiency Boost in the AI-Infused POWER10 Processor, ISCA 2021  
 
 ---
