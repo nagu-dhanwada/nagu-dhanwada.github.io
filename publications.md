@@ -1,14 +1,5 @@
 # Publications
 
-## Selected Publications
-
-- Optimal Input Vector Generation for Transistor-level Power Analysis Using Machine Learning, MLCAD 2025  
-- Pre and Post Silicon Analysis in the Design and Validation of AI Enabled High Performance Microprocessors, DAC 2022  
-- End to End Self Heating Analysis Methodology and Toolset for High Performance Microprocessor Designs, DAC 2016  
-- Leakage Power Contributor Modeling, IEEE Design & Test, 2012  
-
----
-
 ## AI / Machine Learning
 
 - Optimal Input Vector Generation for Transistor-level Power Analysis Using Machine Learning, MLCAD 2025  
